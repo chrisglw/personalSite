@@ -1,1 +1,2 @@
-# personalSite
+# Christian's Portfolio
+I built this website to share insights about myself, my experience, and the projects I’ve worked on. The primary technologies I used are HTML and CSS, with a touch of JavaScript.
